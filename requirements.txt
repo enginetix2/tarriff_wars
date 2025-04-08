@@ -1,0 +1,6 @@
+mesa[viz]
+numpy
+pandas
+matplotlib
+scipy
+tqdm
