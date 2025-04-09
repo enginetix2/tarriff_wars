@@ -4,3 +4,6 @@ pandas
 matplotlib
 scipy
 tqdm
+requests
+networkx
+tabulate
